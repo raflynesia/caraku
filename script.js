@@ -6,7 +6,7 @@ document.getElementById("login-form").addEventListener("submit", function(event)
     let password = document.getElementById("password").value;
 
     // Contoh validasi username dan password
-    if (username === "zhkLmBM778@user.com" && password === "root") {
+    if (username === "buyerke78@vip.com" && password === "root") {
     alert("Selamat Datang 👋");
     window.location.href = "hal1.html"; // Ganti "halaman-baru.html" dengan URL halaman yang ingin diarahkan
 } else {
