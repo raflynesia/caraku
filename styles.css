@@ -2,7 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffff;
+    background-image: url('wlpp.jpg') ;
     background-size: 100%;
     display: flex;
     justify-content: center;
